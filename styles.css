@@ -1,0 +1,1240 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Matemasie&family=Nerko+One&display=swap');
+
+
+
+.title{
+position:absolute;
+top: 200px;
+font-family: "Oswald", sans-serif;
+color: white;
+font-size: 50px;
+left: 100px;
+max-width: 10px;
+
+
+
+
+}
+.ptitle{
+
+}
+.navbar{
+position: absolute;
+background-color: #5c4e5c;
+ width: 1865px;
+ height: 400px;
+ 
+ top: -290px;
+}
+.olimpPng{
+    position: relative;
+    width: 80px;
+    top: -380px;
+    left: -800px;
+}
+.Parisfoto{
+    position: absolute;
+    top: 0px;
+    width: 1926px;
+    right: 0px;
+    height: 1200px;}
+ 
+.parispng{
+    position: absolute;
+    top: -10px;
+    width: 150px;
+    left: 800px;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.medalhas-container {
+    position: absolute;
+    width: 450px;
+    background-color: #5B3EA4;
+    border-radius: 8px;
+    padding: 20px;
+    top: 1500px;
+    left: 30px;
+}
+
+
+
+.medal {
+    text-align: center;
+}
+
+.ouro {
+    background-color: rgb(226, 193, 7);
+    border-radius: 20px;
+}
+
+.prata {
+    background-color: silver;
+    border-radius: 20px;
+}
+
+.bronze {
+    background-color: #cd7f32;
+    border-radius: 20px;
+}
+
+.total-medalhas {
+    text-align: center;
+}
+
+.add-team {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.add-team a {
+    color: white;
+    text-decoration: none;
+}
+
+.view-all {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.view-all button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.mefalhistas-btn{
+    position: absolute;
+    top: -1400px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+   
+
+}
+.site-footer {
+    position: absolute;
+    top: 3000px;
+    width:1820px;
+    background-color: #000;
+    padding: 20px;
+}
+
+.footer-top {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer-logo {
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+.paralympic-link {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.paralympic-link span {
+    margin-left: 10px;
+    font-size: 1.2em;
+}
+
+.app-download {
+    margin: 20px 0;
+}
+
+.app-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.app-buttons img {
+    width: 130px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.footer-column {
+    width: 180px;
+}
+
+.footer-column h4 {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin: 10px 0;
+}
+
+.footer-column ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-middle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.middle-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.middle-links li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.social-links img {
+    width: 24px;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.footer-bottom ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-bottom ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+.footer-bottom p {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #aaa;
+}
+.buttonsnav{
+    position: absolute;
+    left: 500px;
+    border-radius: 30px;
+    top: 20px;
+}
+#btn1{
+    position: absolute;
+    left: 1000px;
+    display: flex;
+  
+    
+}
+#btn2{
+    position: absolute;
+    left: 900px;
+}
+#btn3{
+    position: absolute;
+    left: -400px;
+}
+#btn4{
+    position: absolute;
+    left:-300px;
+}
+#btn5{
+    position:absolute;
+    left: -200px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .cta {
+    position: relative;
+      display: flex;
+      padding: 10px 45px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      font-size: 40px;
+      color: white;
+      background: black;
+      transition: 1s;
+      box-shadow: 6px 6px 0 black;
+      transform: skewX(-15deg);
+      left: -850px;
+      top: 50px;
+  }
+  
+  .cta:focus {
+     outline: none; 
+  }
+  
+  .cta:hover {
+      transition: 0.5s;
+      box-shadow: 10px 10px 0 white;
+  }
+  
+  .cta span:nth-child(2) {
+      transition: 0.5s;
+      margin-right: 0px;
+  }
+  
+  .cta:hover  span:nth-child(2) {
+      transition: 0.5s;
+      margin-right: 45px;
+  }
+  
+    span {
+      transform: skewX(15deg) 
+    }
+  
+    span:nth-child(2) {
+      width: 20px;
+      margin-left: 30px;
+      position: relative;
+      top: 12%;
+    }
+    
+  /**************SVG****************/
+  
+  path.one {
+      transition: 0.4s;
+      transform: translateX(-60%);
+  }
+  
+  path.two {
+      transition: 0.5s;
+      transform: translateX(-30%);
+  }
+  
+  .cta:hover path.three {
+      animation: color_anim 1s infinite 0.2s;
+  }
+  
+  .cta:hover path.one {
+      transform: translateX(0%);
+      animation: color_anim 1s infinite 0.6s;
+  }
+  
+  .cta:hover path.two {
+      transform: translateX(0%);
+      animation: color_anim 1s infinite 0.4s;
+  }
+  
+  /* SVG animations */
+  
+  @keyframes color_anim {
+      0% {
+          fill: white;
+      }
+      50% {
+          fill: #FBC638;
+      }
+      100% {
+          fill: white;
+      }
+  }
+  .styletabela{
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+    
+  }
+  .news-header {
+    position: absolute;
+    text-align: left;
+    margin-bottom: 20px;
+    top: 2000px;
+    text-decoration: none;
+    color: black;
+    left: 0px;
+    
+    
+}
+#move
+{
+    top: 3100px;
+}
+#move2
+{
+position: absolute;
+top: 3700px;
+}
+.principaisnoticias3
+{
+    position: absolute;
+    left: 820px;
+    text-align: left;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ 
+}
+#hr1
+{
+    width:400px;
+    left: 400px;
+    top: 10px;
+}
+#hr2
+{
+    width: 400px;
+    left: 971px;
+    top: -7px;
+}
+.news-header h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+   
+    
+}
+.parceiros2024
+{
+    position: absolute;
+    left: 400px;
+    top: 140px;
+}
+.content-section
+{
+    position: absolute;
+    top: 3200px;
+    left: 350px;
+}
+.content-section p 
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.principaisnoticias{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.news-header hr {
+    position: relative;
+    border: none;
+    height: 2px; /* Ajuste a espessura aqui */
+    background-color: black;
+     width: 1000px;
+     left: 360px;
+}
+.hugo{
+    position: absolute;
+    left: 400px;
+    width: 600px;
+    top: 2100px;
+    height: 400px;
+}
+.h1hugo{
+    position: absolute;
+    top: 2330px;
+    color: white;
+    max-width: 300px;
+    left: 480px;
+    font-family: "Oswald", sans-serif;
+   
+    
+}
+#bueno{
+    position: absolute;
+    top: 2250px;
+    color: rgb(196, 185, 185);
+    top: 2440px;
+    max-width: 400px;
+    font-size: 15px;
+    left: 500px;
+}
+.sueco_calderano
+{
+    position: absolute;
+    width: 400px;
+    left: 700px;
+    top: 2510px;
+}
+.sueco h1
+{
+    font-size: 40px;
+    position: absolute;
+    top: 2770px;
+    color: white;
+    max-width: 300px;
+    left: 740px;
+    font-family: "Oswald", sans-serif;
+
+
+}
+.sueco p{
+    position: absolute;
+    top: 2940px;
+    color: gray;
+    left:780px;
+    max-width: 300px;
+}
+.fa-circle-right
+{
+    position: absolute;
+    font-size: 40px;
+    top: 2420px;
+    right: 1000px;
+    color: white;
+}
+.esportes{
+    position: absolute;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    max-width: 200px;
+    top: 200px;
+    left: 780px;
+    
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+/* Estilos para as células da tabela */
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+/* Estilos para o cabeçalho da tabela */
+th {
+    background-color: #f2f2f2;
+    color: black;
+}
+
+/* Estilos para as linhas da tabela */
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+/* Estilos para o título */
+h1 {
+    text-align: center;
+    color: #333;
+}
+.tabelamedalhas{
+position: absolute;
+top: 1400px;
+left: 50px;
+
+
+}
+.btjudo{
+    position: absolute;
+    width: 400px;
+    top: 2100px;
+    left: 1010px;
+}
+.beatrizjudo h1{
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    max-width: 400px;
+    left:1010px;
+    font-family: "Oswald", sans-serif;
+    top: 2300px;
+}
+.beatrizjudo p {
+position: absolute;
+color: rgb(196, 185, 185);
+top: 2420px;
+left: 1020px;
+max-width: 400px;
+
+}
+.sobre h1
+{
+    position: relative;
+    text-align: left;
+    margin-bottom: 20px;
+    top: 2650px;
+    text-decoration: none;
+    color: black;
+    left: -590px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+
+}
+.sobre hr
+{
+    position: relative;
+    border: none;
+    height: 2px; /* Ajuste a espessura aqui */
+    background-color: black;
+     width: 1000px;
+     left: 360px;
+}
+.principaisnoticias2
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+#move4{
+    top: 400px;
+}
+
+#bronzemedal{
+    position: absolute;
+    color: #cd7f32;
+    font-size: 35px;
+    top: 80px;
+    left: 650px;
+
+}
+#silver
+{
+    position: absolute;
+    font-size: 35px;
+    color: silver;
+    left: 520px;
+    top: 80px;
+}
+#goldmedal{
+    position: absolute;
+    font-size: 35px;
+    color: gold;
+    left: 405px;
+    top: 80px;
+
+}
+.usaflag
+{
+    position: absolute;
+    width: 40px;
+    top: 130px;
+    left: 50px;
+}
+.chinaflag{
+    position: absolute;
+    width: 40px;
+    top: 180px;
+    left: 50px;
+}
+.japanflag
+{
+    position: absolute;
+    width: 40px;
+    top:230px;
+    left: 50px;
+}
+.australiaflag
+{
+    position: absolute;
+    width: 40px;
+    top: 280px;
+    left: 50px;
+
+}
+.brasilflag
+{
+    position: absolute;
+    width: 40px;
+    top: 330px;
+    left: 50px;
+}
+.content-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Espaçamento entre os blocos */
+  }
+  
+  .content-block {
+    flex: 1; /* Faz com que cada bloco ocupe o mesmo espaço */
+    text-align: center;
+    border: 1px solid #ccc; /* Adiciona uma borda para dividir os blocos */
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona sombra para destacar os blocos */
+  }
+  
+  .content-block img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .content-block p {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  .informaçoes1 h1
+  {
+    position: absolute;
+    font-size: 30px;
+    color: #000;
+    top: 1300px;
+    left: 230px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    max-width: 800px;
+ 
+  }
+  #partners
+  {
+    font-size: 60px;
+    position: absolute;
+    color: #000;
+    top: 1400px;
+    left: 300px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    max-width: 800px;
+
+  }
+.airbnb{
+    position: absolute;
+    top: 1500px;
+    left: 300px;
+}
+.airbnbdiv h1
+{
+    position: absolute;
+    color: #000;
+    top: 1600px;
+    left: 300px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.airbnbdiv p
+{
+    position: absolute;
+    top: 1700px;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+}
+.alibabapng
+{
+    position: absolute;
+    top: 2500px;
+    left: 300px;
+}
+.alibaba h1
+{
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    top: 2600px;
+}
+.alibaba p
+{
+    
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top: 2700px;
+}
+.allianzpng
+{
+    position: absolute;
+    top: 3500px;
+    left: 300px;
+}
+.allianz h1
+{
+    position: absolute;
+    top: 3600px;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.allianz p
+{
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top: 3700px;
+}
+.atosimg
+{
+    position: absolute;
+    left: 300px;
+    top: 4500px;
+}
+.atos h1
+{
+    position: absolute;
+    left: 300px;
+    top: 4600px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+
+}
+.atos p{
+    position: absolute;
+    top: 4700px;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+
+}
+#brid
+{
+    position: absolute;
+    left: 300px;
+    top: 5500px;
+}
+
+.brid h1{
+    position: absolute;
+    left: 300px;
+    top: 5650px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.brid p
+{
+    position: absolute;
+    top: 5750px;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+}
+#coca
+{
+    position: absolute;
+    top: 6600px;
+    left: 300px;
+}
+.coca h1{
+    position: absolute;
+    left: 300px;
+    top: 6750px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.coca p{
+    position: absolute;
+    left: 300px;
+    top: 6800px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+
+}
+#deloite
+{
+    position: absolute;
+    top: 7900px;
+    left: 300px;
+
+}
+.del h1{
+    position: absolute;
+    top: 8050px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    left: 300px;
+}
+.del p
+{
+    position: absolute;
+    top: 8100px;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+
+
+}
+#intel
+{
+    position: absolute;
+    top: 9100px;
+    left: 300px;
+
+}
+.intel h1
+{
+    position: absolute;
+    top: 9200px;
+    left:300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    left: 300px;
+}
+.intel p 
+{
+    position: absolute;
+    left: 300px;
+    top: 9250px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+
+
+}
+#omega
+{
+    position: absolute;
+    left: 300px;
+    top: 10250px;
+}
+.omega h1{
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    top: 10350px;
+}
+.omega p{
+    position: absolute;
+    left: 300px;
+    top: 10400px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+
+}
+#panasonic{
+    position: absolute;
+    left: 300px;
+    top: 11400px;
+}
+.panasonic h1
+{
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    top: 11500px;
+}
+.panasonic p 
+{
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top: 11550px;
+}
+#peg
+{
+    position: absolute;
+    left: 300px;
+    top: 12500px;
+}
+.peg h1
+{
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    top: 12700px;
+}
+.peg p
+{
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top:12800px;
+}
+#samsung
+{
+    position: absolute;
+    top: 13500px;
+    left: 300px;
+}
+.samsung h1
+{
+    position: absolute;
+    top: 13600px;
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.samsung p 
+{
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top: 13700px;
+}
+#toyota
+{
+    position: absolute;
+    top: 14500px;
+    left: 300px;
+}
+.toyota h1{
+    position: absolute;
+    top: 14600px;
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.toyota p 
+{
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top: 14700px;
+}
+#visa
+{
+    position: absolute;
+    top: 15600px;
+    left: 300px;
+}
+.visa h1{
+    position: absolute;
+    top: 15700px;
+    position: absolute;
+    left: 300px;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+}
+.visa p
+{
+    position: absolute;
+    left: 300px;
+    color: rgb(17, 14, 14);
+    max-width: 700px;
+    font-size: 25px;
+    top: 15800px;
+}
+.colorw{
+    position: relative;
+    top:-100px;
+    background-color: #5B3EA4;
+    width: 2000px;
+    height: 400px;
+  
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.arena-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Ajusta o espaçamento entre os itens */
+    gap: 20px; /* Espaçamento entre as arenas */
+    padding: 20px;
+    position: relative; /* Ajusta a posição relativa */
+    top: 800px;
+    width: 1300px;
+}
+
+.arena {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: calc(33.33% - 20px); /* Ajusta a largura para 3 itens por linha */
+    margin: 10px 0; /* Adiciona margem vertical para espaçamento */
+}
+
+.arena img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap; /* Permite que as tags quebrem linha se necessário */
+    justify-content: center;
+    gap: 10px; /* Espaçamento entre as tags */
+    padding: 10px 0;
+}
+
+.tags span {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 0.9em;
+    color: #333;
+    white-space: nowrap; /* Evita que o texto nas tags quebre para outra linha */
+}
+
+h3 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.5em;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.arenabercy p
+{
+    position: absolute;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    max-width:600px;
+    top: 900px;
+    left:400px;
+    font-size: 25px;
+}
+.arenabercy h1 
+{
+    position: absolute;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    max-width: 800px;
+    top: 1500px;
+    left: 400px;
+}
+.bercy
+{
+    position: absolute;
+    width: 1200px;
+    left: 340px;
+    top: 150px;
+}
+.infolocal1
+{
+    position: absolute;
+    top: 1700px;
+    left: 400px;
+}
+
